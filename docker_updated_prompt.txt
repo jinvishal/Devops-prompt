@@ -1,0 +1,6 @@
+The `Docker` folder is dedicated to Docker resources.
+-   The `docs` subfolder is for detailed documentation and architectural diagrams related to your Docker setup.
+-   The `scripts` subfolder can house any automation scripts for Docker, such as build scripts or deployment helpers.
+-   The `examples` subfolder contains practical examples, including a `sample_Dockerfile` which demonstrates how to containerize a simple Python Flask application.
+-   The `notes` subfolder provides a place for tips, best practices, and tutorials. It currently includes `basic_overview.md` for a general introduction to Docker and `common_docker_commands.md` which lists frequently used Docker CLI commands.
+-   The `README.md` in the Docker root folder summarizes Docker's purpose and how this folder is structured, now including references to the example Dockerfile and common commands.

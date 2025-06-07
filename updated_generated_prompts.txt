@@ -1,0 +1,30 @@
+
+Updated Prompt for Docker:
+Inside the Docker folder, ensure the following subfolders exist: `docs` (for documentation and architecture), `scripts` (for installation or automation scripts), `examples` (for working configuration or setup examples, including `simple_example.md`), and `notes` (for best practices, how-to guides, or learnings, including `basic_overview.md`). Also ensure a `README.md` summarizes Docker and how this folder is structured, and that placeholder content like `notes/basic_overview.md` and `examples/simple_example.md` are present.
+
+Updated Prompt for Kubernetes:
+Inside the Kubernetes folder, ensure the following subfolders exist: `docs` (for documentation and architecture), `scripts` (for installation or automation scripts), `examples` (for working configuration or setup examples, including `simple_example.md`), and `notes` (for best practices, how-to guides, or learnings, including `basic_overview.md`). Also ensure a `README.md` summarizes Kubernetes and how this folder is structured, and that placeholder content like `notes/basic_overview.md` and `examples/simple_example.md` are present.
+
+Updated Prompt for AWS:
+Inside the AWS folder, ensure the following subfolders exist: `docs` (for documentation and architecture), `scripts` (for installation or automation scripts), `examples` (for working configuration or setup examples, including `simple_example.md`), and `notes` (for best practices, how-to guides, or learnings, including `basic_overview.md`). Also ensure a `README.md` summarizes AWS and how this folder is structured, and that placeholder content like `notes/basic_overview.md` and `examples/simple_example.md` are present.
+
+Updated Prompt for Azure:
+Inside the Azure folder, ensure the following subfolders exist: `docs` (for documentation and architecture), `scripts` (for installation or automation scripts), `examples` (for working configuration or setup examples, including `simple_example.md`), and `notes` (for best practices, how-to guides, or learnings, including `basic_overview.md`). Also ensure a `README.md` summarizes Azure and how this folder is structured, and that placeholder content like `notes/basic_overview.md` and `examples/simple_example.md` are present.
+
+Updated Prompt for GCP:
+Inside the GCP folder, ensure the following subfolders exist: `docs` (for documentation and architecture), `scripts` (for installation or automation scripts), `examples` (for working configuration or setup examples, including `simple_example.md`), and `notes` (for best practices, how-to guides, or learnings, including `basic_overview.md`). Also ensure a `README.md` summarizes GCP and how this folder is structured, and that placeholder content like `notes/basic_overview.md` and `examples/simple_example.md` are present.
+
+Updated Prompt for Git:
+Inside the Git folder, ensure the following subfolders exist: `docs` (for documentation and architecture), `scripts` (for installation or automation scripts), `examples` (for working configuration or setup examples, including `simple_example.md`), and `notes` (for best practices, how-to guides, or learnings, including `basic_overview.md`). Also ensure a `README.md` summarizes Git and how this folder is structured, and that placeholder content like `notes/basic_overview.md` and `examples/simple_example.md` are present.
+
+Updated Prompt for Terraform:
+Inside the Terraform folder, ensure the following subfolders exist: `docs` (for documentation and architecture), `scripts` (for installation or automation scripts), `examples` (for working configuration or setup examples, including `simple_example.md`), and `notes` (for best practices, how-to guides, or learnings, including `basic_overview.md`). Also ensure a `README.md` summarizes Terraform and how this folder is structured, and that placeholder content like `notes/basic_overview.md` and `examples/simple_example.md` are present.
+
+Updated Prompt for Ansible:
+Inside the Ansible folder, ensure the following subfolders exist: `docs` (for documentation and architecture), `scripts` (for installation or automation scripts), `examples` (for working configuration or setup examples, including `simple_example.md`), and `notes` (for best practices, how-to guides, or learnings, including `basic_overview.md`). Also ensure a `README.md` summarizes Ansible and how this folder is structured, and that placeholder content like `notes/basic_overview.md` and `examples/simple_example.md` are present.
+
+Updated Prompt for Jenkins:
+Inside the Jenkins folder, ensure the following subfolders exist: `docs` (for documentation and architecture), `scripts` (for installation or automation scripts), `examples` (for working configuration or setup examples, including `simple_example.md`), and `notes` (for best practices, how-to guides, or learnings, including `basic_overview.md`). Also ensure a `README.md` summarizes Jenkins and how this folder is structured, and that placeholder content like `notes/basic_overview.md` and `examples/simple_example.md` are present.
+
+Updated Prompt for Prometheus/Grafana:
+Inside the Prometheus-Grafana folder, ensure the following subfolders exist: `docs` (for documentation and architecture), `scripts` (for installation or automation scripts), `examples` (for working configuration or setup examples, including `simple_example.md`), and `notes` (for best practices, how-to guides, or learnings, including `basic_overview.md`). Also ensure a `README.md` summarizes Prometheus-Grafana and how this folder is structured, and that placeholder content like `notes/basic_overview.md` and `examples/simple_example.md` are present.

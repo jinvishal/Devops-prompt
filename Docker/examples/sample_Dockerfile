@@ -1,0 +1,33 @@
+# Use an official Python runtime as a parent image
+FROM python:3.9-slim
+
+# Set the working directory in the container
+WORKDIR /app
+
+# Copy the current directory contents into the container at /app
+COPY . /app
+
+# Install any needed packages specified in requirements.txt
+# Create a dummy requirements.txt if it doesn't exist for this example
+RUN if [ ! -f requirements.txt ]; then echo "Flask==2.0.1" > requirements.txt; fi && \
+    pip install --no-cache-dir -r requirements.txt
+
+# Make port 5000 available to the world outside this container
+EXPOSE 5000
+
+# Define environment variable
+ENV NAME World
+
+# Run app.py when the container launches
+# Create a dummy app.py for this example
+RUN echo "from flask import Flask, escape, request" > app.py && \
+    echo "import os" >> app.py && \
+    echo "app = Flask(__name__)" >> app.py && \
+    echo "@app.route('/')" >> app.py && \
+    echo "def hello():" >> app.py && \
+    echo "    name = os.getenv('NAME', 'World')" >> app.py && \
+    echo "    return f'Hello, {escape(name)}!'" >> app.py && \
+    echo "if __name__ == '__main__':" >> app.py && \
+    echo "    app.run(host='0.0.0.0', port=5000)" >> app.py
+
+CMD ["python", "app.py"]
