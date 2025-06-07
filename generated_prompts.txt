@@ -1,0 +1,30 @@
+
+Prompt for Docker:
+Inside the Docker folder, create the following subfolders: docs – for documentation and architecture; scripts – for installation or automation scripts; examples – for working configuration or setup examples; notes – best practices, how-to guides, or learnings. Also include a README.md summarizing Docker and how this folder is structured.
+
+Prompt for Kubernetes:
+Inside the Kubernetes folder, create the following subfolders: docs – for documentation and architecture; scripts – for installation or automation scripts; examples – for working configuration or setup examples; notes – best practices, how-to guides, or learnings. Also include a README.md summarizing Kubernetes and how this folder is structured.
+
+Prompt for AWS:
+Inside the AWS folder, create the following subfolders: docs – for documentation and architecture; scripts – for installation or automation scripts; examples – for working configuration or setup examples; notes – best practices, how-to guides, or learnings. Also include a README.md summarizing AWS and how this folder is structured.
+
+Prompt for Azure:
+Inside the Azure folder, create the following subfolders: docs – for documentation and architecture; scripts – for installation or automation scripts; examples – for working configuration or setup examples; notes – best practices, how-to guides, or learnings. Also include a README.md summarizing Azure and how this folder is structured.
+
+Prompt for GCP:
+Inside the GCP folder, create the following subfolders: docs – for documentation and architecture; scripts – for installation or automation scripts; examples – for working configuration or setup examples; notes – best practices, how-to guides, or learnings. Also include a README.md summarizing GCP and how this folder is structured.
+
+Prompt for Git:
+Inside the Git folder, create the following subfolders: docs – for documentation and architecture; scripts – for installation or automation scripts; examples – for working configuration or setup examples; notes – best practices, how-to guides, or learnings. Also include a README.md summarizing Git and how this folder is structured.
+
+Prompt for Terraform:
+Inside the Terraform folder, create the following subfolders: docs – for documentation and architecture; scripts – for installation or automation scripts; examples – for working configuration or setup examples; notes – best practices, how-to guides, or learnings. Also include a README.md summarizing Terraform and how this folder is structured.
+
+Prompt for Ansible:
+Inside the Ansible folder, create the following subfolders: docs – for documentation and architecture; scripts – for installation or automation scripts; examples – for working configuration or setup examples; notes – best practices, how-to guides, or learnings. Also include a README.md summarizing Ansible and how this folder is structured.
+
+Prompt for Jenkins:
+Inside the Jenkins folder, create the following subfolders: docs – for documentation and architecture; scripts – for installation or automation scripts; examples – for working configuration or setup examples; notes – best practices, how-to guides, or learnings. Also include a README.md summarizing Jenkins and how this folder is structured.
+
+Prompt for Prometheus/Grafana:
+Inside the Prometheus-Grafana folder, create the following subfolders: docs – for documentation and architecture; scripts – for installation or automation scripts; examples – for working configuration or setup examples; notes – best practices, how-to guides, or learnings. Also include a README.md summarizing Prometheus-Grafana and how this folder is structured.
